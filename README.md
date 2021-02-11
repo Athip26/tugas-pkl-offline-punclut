@@ -20,13 +20,16 @@
 
 ## SETIAP TUGAS DIWAJIBKAN UNTUK:
 - [x] Membuat video apa yang dikerjakan.
-- [x] Membuat dokumen yang isinya menceritakan apa yangg dikerjakan.
-- [x] Submit dengan membuat thread pada [Forum]((http://forum.pptik.id/forumdisplay.php?fid=461).
+- [x] Membuat dokumen yang isinya menceritakan apa yang dikerjakan.
+- [x] Submit dengan membuat thread pada [Forum](http://forum.pptik.id/forumdisplay.php?fid=461).
 - [x] **Tugas di kumpulkan setiap orang**.
 
 
 ## Tugas 1 [Basic] WAKTU PENGERJAAN 3 HARI [15- 17 February 2021]
-- Membuat program blink menggunakan esp8266
+- Membuat program blink menggunakan esp8266 [Blink](https://github.com/pptik/tugas-pkl-offline-punclut/tree/main/Blink).
+- Membuat program read analog  [Read analog](https://github.com/pptik/tugas-pkl-offline-punclut/tree/main/AnalogReadSerial).
+- Membuat program read digital [Read Digital](https://github.com/pptik/tugas-pkl-offline-punclut/tree/main/DigitalReadSerial)
+- Membuat program 
 
 ### 1. Untuk compile ikuti langkah berikut: 
 - Buka Arduino IDE.
