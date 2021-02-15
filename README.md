@@ -14,7 +14,7 @@
 
 
 #### Hardware yang digunakan: 
-- NodeMCU Amica ESP8288 / NodeMCU Lolin ESP8266.
+- NodeMCU Amica ESP8266 / NodeMCU Lolin ESP8266.
 - Micro USB Data.
 - Soil Sensor.
 - Relay.
